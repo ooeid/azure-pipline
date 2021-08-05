@@ -2,7 +2,7 @@
 # this script contain all Azure CLI commands you used
 
 git clone https://github.com/ooeid/azur-pipline.git
-cd azur-pipline2
+cd azur-pipline
 git pull
 make all
 az webapp up -n flask-ml-app-one
