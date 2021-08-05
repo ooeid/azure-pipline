@@ -34,7 +34,7 @@ Prerequisites:
 - [GitHub](https://github.com/) account
 - [Azure](https://portal.azure.com/) account
 - [Azure DevOps](https://dev.azure.com/) account
-- basic familiarity with all 3 environments
+
 
 generating an SSH key and add it to your GitHub profile.
 
