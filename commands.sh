@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # this script contain all Azure CLI commands you used
 
-git clone https://github.com/ooeid/azur-pipline2.git
+git clone https://github.com/ooeid/azur-pipline.git
 cd azur-pipline2
 git pull
 make all
